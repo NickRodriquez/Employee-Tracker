@@ -1,5 +1,17 @@
 # Employee Tacker -SQL
 
+# Description
+
+This is an eployee tracker that uses an SQL database, you are able to view departments, roles and employees. This data base also allows you to add a department, employee, or roll as well as delete each one. I have made it possible to update each category as well. 
+
+# Resources
+
+- Inquirer 
+- MySQL2
+- Console.table
+- NPM
+- Javascript
+
 # User Story 
 
 AS A business owner
